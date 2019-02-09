@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BikeShareSQLite</string>
+    <string name="headline">Last added:</string>
+    <string name="ride_add">Add ride</string>
+    <string name="ride_start">Start ride</string>
+    <string name="ride_end">End ride</string>
+    <string name="list_rides">Get rides from server</string>
+    <string name="what_bike">What bike?</string>
+    <string name="where">Where?</string>
+    <string name="endwhere">Ride ends here?</string>
+</resources>
+
